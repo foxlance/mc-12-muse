@@ -1,4 +1,7 @@
 %h1= @post.title
+%p
+  Shared by:
+  = @post.user.email
 %p= @post.description
 
 = link_to "Home", root_path
