@@ -33,7 +33,8 @@ class PostsController < ApplicationController
   end
 
   def destroy
-    
+    @post.destroy
+    redirect_to root_path, alert: 'Deleted!'
   end
 
 
