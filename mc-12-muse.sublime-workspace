@@ -1,0 +1,1671 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newItem"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"get",
+				"getDishes"
+			],
+			[
+				"filter",
+				"filterFormat"
+			],
+			[
+				"acco",
+				"account_code"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"status",
+				"status_id"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"microsite",
+				"microsite_code"
+			],
+			[
+				"api",
+				"api_url"
+			],
+			[
+				"fulfil",
+				"fulfillment_date"
+			],
+			[
+				"if",
+				"if	<?php if (…) ?> … <?php endif ?>"
+			],
+			[
+				"merchant",
+				"merchants"
+			],
+			[
+				"email",
+				"emailhelper"
+			],
+			[
+				"hanlde",
+				"handleWPORequirement"
+			],
+			[
+				"act",
+				"actions_list"
+			],
+			[
+				"pending",
+				"pending_type_id"
+			],
+			[
+				"allo",
+				"allow_cart_changes"
+			],
+			[
+				"cart",
+				"cart_items"
+			],
+			[
+				"remove_",
+				"remove_cart_item"
+			],
+			[
+				"micr",
+				"microsite_id"
+			],
+			[
+				"t",
+				"temp_isbn"
+			],
+			[
+				"redirect",
+				"redirect_status"
+			],
+			[
+				"payment",
+				"payment_type_default"
+			],
+			[
+				"channel",
+				"channel_options"
+			],
+			[
+				"req",
+				"request_api_method"
+			],
+			[
+				"transaction",
+				"transaction"
+			],
+			[
+				"pa",
+				"payment"
+			],
+			[
+				"tr",
+				"transaction_id2"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"ga",
+				"gateway"
+			],
+			[
+				"post",
+				"post_data"
+			],
+			[
+				"gatewa",
+				"allowed_gateways"
+			],
+			[
+				"order",
+				"order_data"
+			],
+			[
+				"product",
+				"product_table"
+			],
+			[
+				"check",
+				"check_order_number"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"main",
+				"main_image"
+			],
+			[
+				"zip",
+				"zipfile"
+			],
+			[
+				"rc",
+				"rcp_control_no"
+			],
+			[
+				"bt",
+				"btnNum"
+			],
+			[
+				"mass",
+				"mass_insert_statement"
+			],
+			[
+				"inser",
+				"insert_sku_ids"
+			],
+			[
+				"fil",
+				"filtered"
+			],
+			[
+				"tta",
+				"total_rows"
+			],
+			[
+				"remo",
+				"removeItem"
+			],
+			[
+				"insert",
+				"insert_product"
+			],
+			[
+				"account",
+				"account_discount"
+			],
+			[
+				"before",
+				"before_date"
+			],
+			[
+				"date_",
+				"date_parsed"
+			],
+			[
+				"ipl",
+				"iplabs_key"
+			],
+			[
+				"raff",
+				"raffles"
+			],
+			[
+				"tra",
+				"transactions_po"
+			],
+			[
+				"remove",
+				"removeFromPO"
+			],
+			[
+				"sku_",
+				"sku_code"
+			],
+			[
+				"is_of",
+				"is_offset_sql"
+			],
+			[
+				"off",
+				"offset_type_id"
+			],
+			[
+				"inven",
+				"inventory_type_id"
+			],
+			[
+				"tran",
+				"transaction_id"
+			],
+			[
+				"crea",
+				"createLoader"
+			],
+			[
+				"create",
+				"create-po-loader"
+			],
+			[
+				"availa",
+				"available_merchants"
+			],
+			[
+				"from_n",
+				"from_name"
+			],
+			[
+				"from",
+				"from_email"
+			],
+			[
+				"or",
+				"order_data"
+			],
+			[
+				"query",
+				"query_limit"
+			],
+			[
+				"array_",
+				"array_merge"
+			],
+			[
+				"array_c",
+				"array_combine"
+			],
+			[
+				"add",
+				"add_points"
+			],
+			[
+				"error",
+				"error_counter"
+			],
+			[
+				"add_",
+				"add_to_catalogue"
+			],
+			[
+				"statu",
+				"status_array"
+			],
+			[
+				"AP",
+				"API_URL"
+			],
+			[
+				"current",
+				"current_setup"
+			],
+			[
+				"produc",
+				"product_code"
+			],
+			[
+				"vi",
+				"vipinoy_points"
+			],
+			[
+				"pro",
+				"prod"
+			],
+			[
+				"with",
+				"withInput"
+			],
+			[
+				"raffle",
+				"raffle_id"
+			],
+			[
+				"point",
+				"point_entries"
+			],
+			[
+				"conve",
+				"convertArray"
+			],
+			[
+				"max",
+				"max_entries"
+			],
+			[
+				"return",
+				"returnMaxEntries"
+			],
+			[
+				"conf",
+				"config_charge"
+			],
+			[
+				"referen",
+				"referene_number"
+			],
+			[
+				"refe",
+				"reference_number"
+			],
+			[
+				"respons",
+				"response"
+			],
+			[
+				"chan",
+				"channel_api"
+			],
+			[
+				"trans",
+				"transfer_price"
+			],
+			[
+				"details",
+				"details_mode"
+			],
+			[
+				"transac",
+				"transaction_number"
+			],
+			[
+				"special",
+				"special_message"
+			],
+			[
+				"transa",
+				"transaction_module"
+			],
+			[
+				"transactions_",
+				"transactions_cart"
+			],
+			[
+				"response",
+				"response_body"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"variant",
+				"variant_count"
+			],
+			[
+				"vv",
+				"vv_id"
+			],
+			[
+				"vc",
+				"vc_id"
+			],
+			[
+				"sku",
+				"sku_code"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"op",
+				"opts"
+			],
+			[
+				"stock",
+				"stock_status"
+			],
+			[
+				"packa",
+				"package_id"
+			],
+			[
+				"prod",
+				"product_id"
+			],
+			[
+				"package",
+				"package_deals"
+			],
+			[
+				"is",
+				"is_package"
+			],
+			[
+				"regula",
+				"regular_value"
+			],
+			[
+				"regu",
+				"regular_key"
+			],
+			[
+				"count",
+				"sku_count"
+			],
+			[
+				"sc_",
+				"sc_inventory"
+			],
+			[
+				"Desk",
+				"DesktopNotification"
+			],
+			[
+				"c",
+				"checkNotificationSupport"
+			],
+			[
+				"no",
+				"notifications"
+			],
+			[
+				"merchant_pro",
+				"merchant_products"
+			],
+			[
+				"mod",
+				"modData"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"pull",
+				"pullout_request"
+			],
+			[
+				"po",
+				"po_id"
+			],
+			[
+				"inventory",
+				"inventory_type_id"
+			],
+			[
+				"purchas",
+				"purchase_cost"
+			],
+			[
+				"terms",
+				"terms_id"
+			],
+			[
+				"requ",
+				"required_options"
+			],
+			[
+				"sc_product_",
+				"sc_product_code"
+			],
+			[
+				"invent",
+				"inventory_count"
+			],
+			[
+				"transa_",
+				"transaction_id"
+			],
+			[
+				"in",
+				"increase_by"
+			],
+			[
+				"points",
+				"points_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 184.0,
+		"last_filter": "synruby",
+		"selected_items":
+		[
+			[
+				"synruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"synjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"pacins",
+				"Package Control: Install Package"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synjava",
+				"Set Syntax: Java"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: log"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"pacls",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pacrev",
+				"Package Control: Remove Package"
+			],
+			[
+				"auth",
+				"Snippet: Auth-attempt"
+			],
+			[
+				"synbla",
+				"Set Syntax: PHP - Laravel Blade"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 191.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"phpcs /d/xampp/htdocs/www.alveo.local/app/controllers/AccountController.php",
+			"phpcs /d/xampp/htdocs/www.alveo.local/app/controllers/",
+			"phpcs",
+			"phpcs ProductController.php",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/rails-dev-box/code-katas-in-ruby"
+	],
+	"file_history":
+	[
+		"/D/rails-dev-box/code-katas-in-ruby/.gitignore",
+		"/D/rails-dev-box/code katas/Bowling Calculator/spec/bowling_calculator_spec.rb",
+		"/D/rails-dev-box/code katas/Bowling Calculator/test/bowling_calculator_test.rb",
+		"/D/rails-dev-box/code katas/Tennis Calculator/test/tennis_calculator_test.rb",
+		"/D/rails-dev-box/indi/exam1.rb",
+		"/D/rails-dev-box/notindi/exam1.rb",
+		"/D/rails-dev-box/indi/exam2.rb",
+		"/D/rails-dev-box/notindi/exam2.rb",
+		"/D/rails-dev-box/code katas/Gilded Rose/lib/GildedRose.rb",
+		"/D/rails-dev-box/code katas/Gilded Rose/lib/ProductInterface.rb",
+		"/D/rails-dev-box/code katas/Gilded Rose/lib/Normal.rb",
+		"/D/rails-dev-box/code katas/Gilded Rose/spec/gilded_rose_spec.rb",
+		"/D/rails-dev-box/code katas/Tennis Calculator/spec/tennis_calculator_spec.rb",
+		"/D/rails-dev-box/code katas/String Calculator/spec/string_calculator_spec.rb",
+		"/D/rails-dev-box/code katas/String Calculator/test/string_calculator_test.rb",
+		"/D/rails-dev-box/code katas/Roman Numeral Converter/test/roman_numeral_test.rb",
+		"/D/rails-dev-box/code katas/Roman Numeral Converter/spec/roman_numeral_spec.rb",
+		"/D/rails-dev-box/code katas/Prime Factorials/test/prime_factors_test.rb",
+		"/D/rails-dev-box/code katas/Prime Factorials/spec/prime_factorials_spec.rb",
+		"/D/rails-dev-box/code katas/Bowling Calculator/spec/spec_bowling.rb",
+		"/D/rails-dev-box/code katas/String Calculator/lib/string_calculator.rb",
+		"/D/rails-dev-box/code katas/Gilded Rose - RSPEC/spec/gilded_rose_spec.rb",
+		"/D/rails-dev-box/code katas/Gilded Rose - RSPEC/test/gilded_rose_test.rb",
+		"/D/rails-dev-box/code katas/README - GildedRose.md",
+		"/D/rails-dev-box/code katas/test/gilded_rose_test.rb",
+		"/D/rails-dev-box/code katas/GildedRose.rb",
+		"/D/rails-dev-box/code katas/Gilded Rose - RSPEC/lib/gilded_rose.rb",
+		"/D/rails-dev-box/code katas/gilded_rose.rb",
+		"/E/_RAILS/code katas/Gilded Rose - RSPEC/lib/gilded_rose.rb",
+		"/E/_RAILS/code katas/Gilded Rose - RSPEC/lib/Normal.rb",
+		"/E/_RAILS/code katas/Gilded Rose - RSPEC/spec/gilded_rose_spec.rb",
+		"/E/_RAILS/code katas/test/gilded_rose_test.rb",
+		"/E/_RAILS/code katas/BackstagePasses.rb",
+		"/E/_RAILS/code katas/ProductFactory.rb",
+		"/E/_RAILS/code katas/Conjured.rb",
+		"/E/_RAILS/code katas/product.rb",
+		"/E/_RAILS/code katas/ProductInterface.rb",
+		"/E/_RAILS/code katas/gilded_rose.rb",
+		"/E/_RAILS/code katas/Normal.rb",
+		"/E/_RAILS/code katas/Sulfuras.rb",
+		"/E/_RAILS/code katas/Brie.rb",
+		"/E/_RAILS/php-to-ruby/06-classes.rb",
+		"/E/_RAILS/php-to-ruby/06-classes.php",
+		"/E/_RAILS/code katas/test/tennis_calculator_test.rb",
+		"/E/_RAILS/code katas/README - GildedRose.md",
+		"/E/_RAILS/code katas/prime_factors.rb",
+		"/E/_RAILS/code katas/test/bowling_calculator_test.rb",
+		"/E/_RAILS/code katas/tennis_player.rb",
+		"/E/_RAILS/code katas/tennis_calculator.rb",
+		"/E/_PHP/black/controller/UserInterfaceClass.php",
+		"/E/_PHP/black/views/Research/icpage.php",
+		"/E/_PHP/black/views/Research/InvestmentAnalysis/archive.php",
+		"/E/_PHP/black/template/rsch_invAnalysis.php",
+		"/E/_PHP/black/models/Research/CountryData/country_guide.php",
+		"/E/_PHP/black/models/Research/CountryData/country_data_archive.php",
+		"/E/_PHP/black/models/Research/CountryData/country_data.php",
+		"/C/Users/Lance/Desktop/FileZilla.xml",
+		"/E/_PHP/black/views/Research/Footer/contact_us.php",
+		"/E/_PHP/black/models/Research/residential_investments.php",
+		"/E/_PHP/black/.htaccess",
+		"/E/_PHP/black/views/Research/residential_investments.php",
+		"/E/_PHP/black/conf/modules.ini",
+		"/L/Documents/Google Drive Backup/_Logins.txt",
+		"/E/_PHP/availat.sme/app/Product.php",
+		"/E/_PHP/availat.sme/app/Http/Requests/LoginRequest.php",
+		"/E/_PHP/availat.sme/app/Http/Controllers/Login.php",
+		"/C/Users/Lance/Homestead/Vagrantfile",
+		"/E/_PHP/black/ResearchInterfaceClass.php",
+		"/C/Users/Lance/.homestead/Homestead.yaml",
+		"/I/Installers/Adobe Photoshop CS6 13.0.1 Final  Multilanguage (cracked dll) [ChingLiu]/ChingLiu.Notes.nfo",
+		"/I/old files backup/Codes/black/controller/ResearchInterfaceClass.php",
+		"/C/Users/Lance/Downloads/newsletter.sql",
+		"/E/_PHP/availat.sme/resources/views/login/index.blade.php",
+		"/E/_PHP/availat.sme/resources/views/errors/404.blade.php",
+		"/E/_PHP/availat.sme/app/Providers/MetaServiceProvider.php",
+		"/E/_PHP/availat.sme/resources/views/master.blade.php",
+		"/E/_PHP/availat.sme/app/Providers/PartialsServiceProvider.php",
+		"/L/Documents/Google Drive Backup/Dev Config/Virtual Host.txt",
+		"/C/Users/Lance/Homestead/init.sh",
+		"/C/Users/Lance/.homestead/aliases",
+		"/C/Users/Lance/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/Program Files/Git/etc/profile",
+		"/E/_PHP/phpmyadmin4551/config.sample.inc.php",
+		"/E/_PHP/availat.sme/app/Libraries/SupplychainAPI.php",
+		"/L/Documents/Google Drive Backup/Dev Config/Git Profile.txt",
+		"/C/Users/Lance Vincent/Google Drive/_Logins.txt",
+		"/C/Users/Lance Vincent/Desktop/globalpr_listing.sql",
+		"/C/Users/Lance Vincent/Desktop/db/_main-2016-02-25.sql",
+		"/D/xampp/htdocs/availat.sme/app/Providers/UserExperienceProvider.php",
+		"/D/xampp/htdocs/availat.sme/app/Providers/ShoppingCartProvider.php",
+		"/D/xampp/htdocs/availat.sme/app/Libraries/Hmac.php",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/1-basic-react/package.json",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/1-basic-react/webpack.config.js",
+		"/D/xampp/htdocs/availat.sme/resources/views/home/index.blade.php",
+		"/D/xampp/htdocs/availat.sme/resources/views/home/walkthrough.blade.php",
+		"/D/rails-dev-box/mckenzie-child/mc-04-pinterest-clone/config/database.yml",
+		"/C/Users/Lance Vincent/Desktop/webpack-tuts/webpack.config.js",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/package.json",
+		"/C/Users/Lance Vincent/Desktop/react-tuts/package.json",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/1-basic-react/src/js/client.js",
+		"/C/Users/Lance Vincent/Desktop/webpack-tuts/package.json",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/node_modules/history/npm-scripts/postinstall.js",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/1-basic-react/src/client.min.js",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/1-basic-react/src/js/components/Header.js",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/1-basic-react/src/js/components/Footer.js",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/1-basic-react/src/js/components/Header/Title.js",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/1-basic-react/src/index.html",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/1-basic-react/src/js/components/Layout.js",
+		"/D/xampp/htdocs/availat.sme/app/Http/routes.php",
+		"/D/xampp/htdocs/availat.sme/app/Http/Controllers/HowItWorks.php",
+		"/D/xampp/htdocs/availat.sme/resources/views/how_it_works/index.blade.php",
+		"/D/xampp/htdocs/availat.sme/resources/assets/sass/how-it-works.scss",
+		"/D/xampp/htdocs/availat.sme/app/Providers/MetaServiceProvider.php",
+		"/D/xampp/htdocs/availat.sme/package.json",
+		"/D/xampp/htdocs/availat.sme/gulpfile.js",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/.nvmrc",
+		"/C/Users/Lance Vincent/Desktop/react-js-tutorials-master/.gitignore",
+		"/D/xampp/htdocs/availat.sme/resources/assets/sass/profile.scss",
+		"/D/xampp/htdocs/availat.sme/app/Providers/PartialsServiceProvider.php",
+		"/D/xampp/htdocs/availat.sme/resources/views/tour/_header_menu_auth.blade.php",
+		"/D/xampp/htdocs/availat.sme/resources/views/tour/main_menu.blade.php",
+		"/D/xampp/htdocs/availat.sme/resources/views/master.blade.php",
+		"/D/xampp/htdocs/availat.sme/app/Providers/MissingAddressProvider.php",
+		"/D/xampp/htdocs/availat.sme/app/Providers/PopoverProvider.php",
+		"/D/xampp/htdocs/availat.sme/app/Http/Controllers/Employees.php",
+		"/D/xampp/htdocs/availat.sme/resources/views/sitewide_javascript.blade.php",
+		"/D/xampp/htdocs/dtr.a-solutions.ph/admin/home.php",
+		"/D/xampp/htdocs/availat.sme/config/app.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 233.0,
+		"where_history":
+		[
+			"E:\\_PHP\\black\\views",
+			"E:\\_PHP\\black\\controller\\",
+			"E:\\_PHP\\black\\views\\",
+			"E:\\_PHP\\black",
+			"E:\\_PHP\\black\\mainbackend",
+			"<project>",
+			"E:\\_PHP\\black",
+			"I:\\old files backup\\Codes\\black",
+			"C:\\Users\\Lance Vincent\\Desktop\\react-js-tutorials-master\\1-basic-react",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\assets\\css",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\assets\\sass",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\views",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\app\\Http",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\views",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\assets",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\assets",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\views",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\assets\\sass",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\views",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\assets",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\assets\\sass",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\assets\\sass",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\app\\Http\\Controllers",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\views",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\app\\Http",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\resources",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\assets",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\app\\Providers",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\views",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\bootstrap",
+			"D:\\xampp\\htdocs\\availat.sme\\storage",
+			"D:\\xampp\\htdocs\\availat.sme\\vendor",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\storage",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\assets",
+			"D:\\xampp\\htdocs\\availat.sme\\app",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\assets\\sass",
+			"D:\\xampp\\htdocs\\availat.sme\\resources\\views",
+			"D:\\xampp\\htdocs\\phpmyadmin542",
+			"D:\\Code\\availat.sme\\app",
+			"D:\\Code\\availat.sme\\resources",
+			"D:\\Code\\availat.sme\\app",
+			"D:\\Code\\availat.sme\\app\\Http",
+			"D:\\Code\\availat.sme\\resources\\views",
+			"D:\\xampp\\htdocs\\www.alorica.local\\app",
+			"D:\\Code\\availat.sme\\resources",
+			"D:\\xampp\\htdocs\\themeforest\\Shopfine\\www",
+			"D:\\Code\\availat.sme\\public_html",
+			"D:\\Code\\availat.sme",
+			"C:\\Users\\Lance Vincent\\Desktop\\srt\\week 5",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\Code\\asolutions-supplychain\\system",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\Code\\asolutions-supplychain\\_webapps",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\views",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\xampp\\htdocs\\asolutions-api\\_webapps",
+			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\controllers",
+			"D:\\xampp\\htdocs\\asolutions-api\\_webapps",
+			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\models",
+			"D:\\xampp\\htdocs\\asolutions-api\\_webapps",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\views",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\views",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\controllers",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\Code\\asolutions-supplychain\\_webapps",
+			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\app",
+			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\backend",
+			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\public_html\\email",
+			"D:\\xampp\\htdocs\\madison\\app",
+			"D:\\xampp\\htdocs\\www.alveo.com\\app",
+			"D:\\xampp\\htdocs\\www.alorica.local\\app",
+			"D:\\Code\\ucpbrewards\\app",
+			"D:\\xampp\\htdocs\\sedarewards-new\\app",
+			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\backend",
+			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\app",
+			"D:\\xampp\\htdocs\\www.ayalalandpremier.local",
+			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\views\\fullybooked",
+			"D:\\xampp\\htdocs\\fullybooked\\application",
+			"D:\\xampp\\htdocs\\fullybooked\\application\\models",
+			"D:\\xampp\\htdocs\\fullybooked\\application\\controllers",
+			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\models",
+			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\controllers",
+			"D:\\xampp\\htdocs\\fullybooked",
+			"D:\\xampp\\htdocs\\phpmyadmin449",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\views",
+			"D:\\xampp\\htdocs\\www.alorica.local\\app",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\views",
+			"D:\\xampp\\htdocs\\www.alveo.com\\backend",
+			"D:\\xampp\\htdocs\\asolutions-api\\_webapps",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\controllers",
+			"D:\\xampp\\htdocs\\madison\\app",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\xampp\\htdocs\\madison\\app\\controllers",
+			"D:\\xampp\\htdocs\\sedarewards-new\\backend",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\controllers",
+			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\controllers",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\controllers",
+			"D:\\Code\\Codesignate API\\api\\api",
+			"D:\\Code\\ucpbrewards\\app\\views",
+			"D:\\Code\\ucpbrewards\\app",
+			"D:\\Code\\ucpbrewards\\backend",
+			"D:\\Code\\ucpbrewards\\backend\\controllers",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\app\\controllers",
+			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\app",
+			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\app\\views",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
+			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\controllers",
+			"D:\\xampp\\htdocs\\popshop\\_webapps\\_cms\\views",
+			"D:\\Code\\ucpbrewards\\app\\controllers"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"min",
+			"hour",
+			"context \"",
+			", @game.score",
+			"expect().to eq",
+			"assert_equal ",
+			"test ",
+			"_",
+			"def ",
+			"_",
+			"_for_new_line_delimiters\" do\n      expect(@c",
+			"_",
+			"test_",
+			"assert_equal ",
+			"def ",
+			"takes_except",
+			"_",
+			"test_takes_",
+			"roman numeral for",
+			"_",
+			"test_c",
+			"assert_equal ",
+			"def ",
+			"assert_equal ",
+			"_",
+			"Computes_",
+			"_",
+			"test_",
+			"def ",
+			"assert_equal ",
+			"_",
+			"test_awards_",
+			"test_scores_",
+			"def ",
+			"_",
+			"gr = GildedRose.new",
+			"gr[0]",
+			"GildedRose.new(@products)",
+			"item.",
+			"gr.process_items",
+			"\n\n\n    ",
+			"\n\n",
+			"\n    # gr.update",
+			"update_quality",
+			"gr = GildedRose.new @products",
+			"assert_equal ",
+			"gr = GildedRose.new @products",
+			"assert_equal ",
+			"gr = GildedRose.new @products",
+			"assert_equal ",
+			"gr = GildedRose.new @products",
+			"\n      gr.update_quality\n",
+			"\n    gr.update_quality\n",
+			"_",
+			"Conjured_items_",
+			"_",
+			"Backstage_pass_items_",
+			"_",
+			"Sulfuras_items_",
+			"test_updates_",
+			"def ",
+			"assert_equal ",
+			"gr = GildedRose.new @products",
+			"\n      gr.update_quality\n",
+			"_",
+			"Brie_",
+			"test_updates_",
+			"def ",
+			"    #   product = Product.new 'normal', 10, 0",
+			"product",
+			"@product.",
+			"normal ",
+			"assert_equal ",
+			"it \"",
+			"Product.new(",
+			"@products << ",
+			"test ",
+			"_",
+			"def ",
+			"productsell_in",
+			"quality",
+			"@product.",
+			"type",
+			"item.quality",
+			"item.name",
+			"ProductFactory.new(",
+			"ProductFactory.new",
+			"ProductFatory",
+			" end\n\n      if ",
+			"ProductFactory",
+			".items",
+			"items",
+			"gr.items",
+			"items",
+			"gr.items",
+			"normal",
+			"sell_in",
+			"@quality = @quality - 1",
+			"quality",
+			"gr.items[0]",
+			" ",
+			"test_updates_Backstage_pass_items_close_to_the_sell_date",
+			" ",
+			"-1",
+			" ",
+			"//",
+			"// ",
+			" ",
+			"normal",
+			"Aged Brie",
+			" ",
+			"test_updates_normal_items_before_sell_date",
+			"item",
+			"assert",
+			"gr",
+			"@",
+			"products",
+			"@",
+			"item",
+			"type",
+			"sell_in",
+			"sellIn",
+			"item.",
+			"type",
+			";",
+			" ",
+			"DC_creator",
+			"comment("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"		"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.541921616527,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 221.0
+	},
+	"pinned_build_system": "",
+	"project": "mc-12-muse.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"howitw",
+				"app\\Http\\Controllers\\HowItWorks.php"
+			],
+			[
+				"meta",
+				"app\\Providers\\MetaServiceProvider.php"
+			],
+			[
+				"partia",
+				"app\\Providers\\PartialsServiceProvider.php"
+			],
+			[
+				"contoerrors",
+				"app\\Http\\Controllers\\Errors.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"routes",
+				"app\\Http\\routes.php"
+			],
+			[
+				".coffee",
+				"resources\\assets\\coffee\\shoppingcart.coffee"
+			],
+			[
+				"master",
+				"app\\Http\\Controllers\\Master.php"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"cus",
+				"resources\\assets\\js\\custom.js"
+			],
+			[
+				"welcom",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"channel",
+				"asolutions-supplychain\\_webapps\\_cms\\libraries\\channel_api.php"
+			],
+			[
+				"log215825",
+				"asolutions-supplychain\\_webapps\\_cms\\logs\\log-2015-08-25.php"
+			],
+			[
+				"autoemail",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\auto_emails.php"
+			],
+			[
+				"autoemailmer",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\_email_templates\\auto_email_merchants.php"
+			],
+			[
+				"emailher",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\emailhelper.php"
+			],
+			[
+				"emailhelp",
+				"asolutions-api\\_webapps\\models\\emailhelper.php"
+			],
+			[
+				"modsupphe",
+				"asolutions-api\\_webapps\\models\\supplychainhelper.php"
+			],
+			[
+				"alpconfig",
+				"asolutions-api\\_webapps\\config\\production\\config.php"
+			],
+			[
+				"vwfulindx",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\fulfillment\\index.php"
+			],
+			[
+				"modfulfill",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\mod_fulfillment.php"
+			],
+			[
+				"confull",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\fulfillment.php"
+			],
+			[
+				"channelapi",
+				"asolutions-supplychain\\_webapps\\_cms\\libraries\\channel_api.php"
+			],
+			[
+				"po.p",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\po.php"
+			],
+			[
+				"purcha",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\purchase_orders.php"
+			],
+			[
+				"printp",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\purchase_orders\\print.php"
+			],
+			[
+				"modmer",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\merchant.php"
+			],
+			[
+				"conmer",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\merchants.php"
+			],
+			[
+				"mercadd",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\merchants\\add.php"
+			],
+			[
+				"merchantedit",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\merchants\\edit.php"
+			],
+			[
+				"transedit",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
+			],
+			[
+				"vwtranedit",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
+			],
+			[
+				"modtra",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
+			],
+			[
+				"07-06",
+				"asolutions-supplychain\\_webapps\\_cms\\logs\\log-2015-07-06.php"
+			],
+			[
+				"tra",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
+			],
+			[
+				"tran",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\transactions.php"
+			],
+			[
+				"sku_list",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\merchants\\sku_list.php"
+			],
+			[
+				"variant",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\variants.php"
+			],
+			[
+				"value_list",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\variants\\value_list.php"
+			],
+			[
+				"merskulis",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\merchants\\sku_list.php"
+			],
+			[
+				"inventory",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\inventory.php"
+			],
+			[
+				"inventories",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\inventories.php"
+			],
+			[
+				"critical",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\inventories\\critical.php"
+			],
+			[
+				"vwstrcof",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\cof.php"
+			],
+			[
+				"poprint",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\purchase_orders\\print.php"
+			],
+			[
+				"mycus",
+				"asolutions-supplychain\\_webapps\\_cms\\helpers\\my_custom_helper.php"
+			],
+			[
+				"cnd",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\cdn.php"
+			],
+			[
+				"purc",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\purchase_orders.php"
+			],
+			[
+				"porcre",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\purchase_orders\\create.php"
+			],
+			[
+				"core/input",
+				"asolutions-supplychain\\system\\core\\Input.php"
+			],
+			[
+				"traedit",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
+			],
+			[
+				"emailhel",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\emailhelper.php"
+			],
+			[
+				"motra",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
+			],
+			[
+				"transac",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\transactions.php"
+			],
+			[
+				"supplychian.php",
+				"asolutions-api\\_webapps\\controllers\\supplychain.php"
+			],
+			[
+				"vwscof",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\cof.php"
+			],
+			[
+				"conttransa",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\transactions.php"
+			],
+			[
+				"mycustom",
+				"asolutions-supplychain\\_webapps\\_cms\\helpers\\my_custom_helper.php"
+			],
+			[
+				"transedi",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
+			],
+			[
+				"vws/pur",
+				"_webapps\\_cms\\views\\purchase_orders\\create.php"
+			],
+			[
+				"purchase",
+				"_webapps\\_cms\\controllers\\purchase_orders.php"
+			],
+			[
+				"sale.php",
+				"_webapps\\_cms\\models\\sale.php"
+			],
+			[
+				"sales",
+				"_webapps\\_cms\\controllers\\sales.php"
+			],
+			[
+				"main.css",
+				"assets\\cms\\css\\main.css"
+			],
+			[
+				"modegc",
+				"site-cont\\models\\mod_tattoo_rewards_egc.php"
+			],
+			[
+				"alovwfilte",
+				"microsite\\aloricarewards\\views\\filters.php"
+			],
+			[
+				"modtattegc",
+				"site-cont\\models\\mod_tattoo_rewards_egc.php"
+			],
+			[
+				"tattooegc",
+				"site-cont\\controllers\\tattoo_rewards_egc.php"
+			],
+			[
+				"suppmodpo.pp",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\po.php"
+			],
+			[
+				"securepay",
+				"asolutions-api\\_webapps\\controllers\\securepay.php"
+			],
+			[
+				"api/mod/payment",
+				"asolutions-api\\_webapps\\models\\payment.php"
+			],
+			[
+				"supmodepayment",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\addon_payment.php"
+			],
+			[
+				"apimodpayment",
+				"asolutions-api\\_webapps\\models\\payment.php"
+			],
+			[
+				"suppvwstrnsedit",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
+			],
+			[
+				"supvwedit.php",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\accounts\\edit.php"
+			],
+			[
+				"modpayment.php",
+				"asolutions-api\\_webapps\\models\\payment.php"
+			],
+			[
+				"payment.php",
+				"adeals\\site-cont\\controllers\\payment.php"
+			],
+			[
+				"suppvwtrnsedit",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
+			],
+			[
+				"suppmodtra",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
+			],
+			[
+				"suppmodtran",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
+			],
+			[
+				"sppconttrans",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\transactions.php"
+			],
+			[
+				"supvwpobr",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\po_breakdown.php"
+			],
+			[
+				"suppvietransed",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
+			],
+			[
+				"contsupplchain",
+				"asolutions-api\\_webapps\\controllers\\supplychain.php"
+			],
+			[
+				"suppassmaincss",
+				"asolutions-supplychain\\assets\\cms\\css\\main.css"
+			],
+			[
+				"suppmodfulfill",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\mod_fulfillment.php"
+			],
+			[
+				"suppmodful",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\mod_fulfillment.php"
+			],
+			[
+				"suppcmsmain.",
+				"asolutions-supplychain\\assets\\cms\\css\\main.css"
+			],
+			[
+				"suppmodinve",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\inventory.php"
+			],
+			[
+				"mod_fulfill",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\mod_fulfillment.php"
+			],
+			[
+				"suppcontful",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\fulfillment.php"
+			],
+			[
+				"suppconrreq",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\request_for_billing.php"
+			],
+			[
+				"suppcontrfull",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\fulfillment.php"
+			],
+			[
+				"suppvwsful",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\fulfillment\\index.php"
+			],
+			[
+				"suppcontrebill",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\request_for_billing.php"
+			],
+			[
+				"supmodinen",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\inventory.php"
+			],
+			[
+				"supmodinven",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\inventory.php"
+			],
+			[
+				"suppmodpo",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\po.php"
+			],
+			[
+				"supconttransa",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\transactions.php"
+			],
+			[
+				"madisonappproducontro",
+				"madison\\app\\controllers\\ProductsController.php"
+			],
+			[
+				"suppmodmicro",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\microsite.php"
+			],
+			[
+				"supchmodmic",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\microsite.php"
+			],
+			[
+				"synhtml",
+				"adeals\\system\\index.html"
+			],
+			[
+				"supmodmicr",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\microsite.php"
+			],
+			[
+				"supcontmic",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\microsites.php"
+			],
+			[
+				"supplconttrans",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\transactions.php"
+			],
+			[
+				"suppmain.css",
+				"asolutions-supplychain\\assets\\cms\\css\\main.css"
+			],
+			[
+				"supchcontmicr",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\microsites.php"
+			],
+			[
+				"suppmodepu",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\purchase_order.php"
+			],
+			[
+				"task_helper",
+				"tasks\\spec\\helpers\\tasks_helper_spec.rb"
+			],
+			[
+				"transaction_couple_whole",
+				"aweddings\\_frontend2.0\\views\\email\\transaction_couple_whole.php"
+			],
+			[
+				"alvappmaster",
+				"www.alveo.com\\app\\views\\master.blade.php"
+			],
+			[
+				"create.php",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\purchase_orders\\create.php"
+			],
+			[
+				"po_br",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\po_breakdown.php"
+			],
+			[
+				"po.php",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\po.php"
+			],
+			[
+				"purchas_or",
+				"asolutions-supplychain\\_webapps\\_cms\\controllers\\purchase_orders.php"
+			],
+			[
+				"suplvwtranedit",
+				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
+			],
+			[
+				"suplymodtran",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
+			],
+			[
+				"spplmodtra",
+				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
+			],
+			[
+				"querie",
+				"adeals\\admin-cms\\models\\queries.php"
+			],
+			[
+				"mod_affiliate",
+				"adeals\\site-cont\\models\\mod_affiliate.php"
+			],
+			[
+				"gdeals",
+				"adeals\\site-cont\\controllers\\gdeals.php"
+			],
+			[
+				"gdeals.ph",
+				"adeals\\site-cont\\controllers\\gdeals.php"
+			],
+			[
+				"booth.php",
+				"adeals\\site-cont\\controllers\\booth.php"
+			],
+			[
+				"booth",
+				"adeals\\site-cont\\controllers\\booth.php"
+			],
+			[
+				"alobckpointh",
+				"www.alorica.local\\backend\\models\\PointsHistory.php"
+			],
+			[
+				"regis",
+				"www.alorica.local\\backend\\models\\Registration.php"
+			],
+			[
+				"gdaels",
+				"adeals\\site-cont\\controllers\\gdeals.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
