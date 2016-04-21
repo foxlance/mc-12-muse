@@ -1,6 +1,7 @@
 %h1 Musings
 
 - @posts.each do |post|
+  = image_tag post.image.url(:small)
   %h2= post.title
   %p
     Shared by:
